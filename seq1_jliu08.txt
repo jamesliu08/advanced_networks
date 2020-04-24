@@ -1,0 +1,526 @@
+[Apr 04 23:32:48]
+traceroute to 23.43.254.42 (23.43.254.42), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  0.324 ms  0.320 ms  0.320 ms
+ 2  testwifi.here (192.168.86.1)  14.941 ms  14.972 ms  14.973 ms
+ 3  96.120.74.249 (96.120.74.249)  25.425 ms  25.433 ms  25.432 ms
+ 4  68.86.223.249 (68.86.223.249)  26.784 ms  26.800 ms  26.801 ms
+ 5  96.108.142.197 (96.108.142.197)  25.425 ms  25.425 ms  25.424 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  144.363 ms  142.716 ms  142.708 ms
+ 7  be-31143-cs04.newark.nj.ibone.comcast.net (96.110.42.45)  36.575 ms  23.478 ms  23.472 ms
+ 8  be-2412-pe12.newark.nj.ibone.comcast.net (96.110.34.14)  23.446 ms  23.484 ms  23.470 ms
+ 9  as36408-1.350ecermak.il.ibone.comcast.net (75.149.228.46)  23.505 ms  23.511 ms  23.509 ms
+10  ae2.halsey-ewr.netarch.akamai.com (23.203.154.129)  23.441 ms  23.445 ms  23.444 ms
+11  a23-43-254-42.deploy.static.akamaitechnologies.com (23.43.254.42)  23.392 ms  21.248 ms  21.243 ms
+[Apr 04 23:32:52]
+PING 23.43.254.42 (23.43.254.42) 56(84) bytes of data.
+64 bytes from 23.43.254.42: icmp_seq=1 ttl=54 time=30.6 ms
+64 bytes from 23.43.254.42: icmp_seq=2 ttl=54 time=24.5 ms
+64 bytes from 23.43.254.42: icmp_seq=3 ttl=54 time=21.3 ms
+64 bytes from 23.43.254.42: icmp_seq=4 ttl=54 time=30.9 ms
+64 bytes from 23.43.254.42: icmp_seq=5 ttl=54 time=29.5 ms
+64 bytes from 23.43.254.42: icmp_seq=6 ttl=54 time=111 ms
+64 bytes from 23.43.254.42: icmp_seq=7 ttl=54 time=53.9 ms
+64 bytes from 23.43.254.42: icmp_seq=8 ttl=54 time=63.3 ms
+64 bytes from 23.43.254.42: icmp_seq=9 ttl=54 time=50.8 ms
+64 bytes from 23.43.254.42: icmp_seq=10 ttl=54 time=22.3 ms
+[Apr 04 23:33:02]
+traceroute to 23.43.254.42 (23.43.254.42), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  0.335 ms  0.314 ms  0.314 ms
+ 2  testwifi.here (192.168.86.1)  46.060 ms  46.078 ms  46.078 ms
+ 3  96.120.74.249 (96.120.74.249)  85.498 ms  85.523 ms  85.526 ms
+ 4  68.86.223.249 (68.86.223.249)  63.457 ms  63.477 ms  63.480 ms
+ 5  96.108.142.197 (96.108.142.197)  85.525 ms  85.528 ms  85.532 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  85.483 ms  83.769 ms  83.763 ms
+ 7  be-31143-cs04.newark.nj.ibone.comcast.net (96.110.42.45)  83.786 ms  81.270 ms  81.255 ms
+ 8  be-2412-pe12.newark.nj.ibone.comcast.net (96.110.34.14)  81.167 ms  19.703 ms  19.730 ms
+ 9  as36408-1.350ecermak.il.ibone.comcast.net (75.149.228.46)  19.872 ms  19.874 ms  19.868 ms
+10  ae2.halsey-ewr.netarch.akamai.com (23.203.154.129)  20.713 ms  31.403 ms  31.448 ms
+11  a23-43-254-42.deploy.static.akamaitechnologies.com (23.43.254.42)  21.224 ms  31.373 ms  31.423 ms
+[Apr 04 23:33:05]
+PING 23.43.254.42 (23.43.254.42) 56(84) bytes of data.
+64 bytes from 23.43.254.42: icmp_seq=1 ttl=54 time=24.1 ms
+64 bytes from 23.43.254.42: icmp_seq=2 ttl=54 time=41.0 ms
+64 bytes from 23.43.254.42: icmp_seq=3 ttl=54 time=36.0 ms
+64 bytes from 23.43.254.42: icmp_seq=4 ttl=54 time=48.6 ms
+64 bytes from 23.43.254.42: icmp_seq=5 ttl=54 time=55.6 ms
+64 bytes from 23.43.254.42: icmp_seq=6 ttl=54 time=47.9 ms
+64 bytes from 23.43.254.42: icmp_seq=7 ttl=54 time=51.2 ms
+64 bytes from 23.43.254.42: icmp_seq=8 ttl=54 time=73.9 ms
+64 bytes from 23.43.254.42: icmp_seq=9 ttl=54 time=32.1 ms
+64 bytes from 23.43.254.42: icmp_seq=10 ttl=54 time=28.8 ms
+
+[Apr 04 23:33:15]
+traceroute to 151.101.1.224 (151.101.1.224), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  0.436 ms  0.414 ms  0.413 ms
+ 2  testwifi.here (192.168.86.1)  10.643 ms  10.655 ms  10.656 ms
+ 3  96.120.74.249 (96.120.74.249)  23.262 ms  23.262 ms  23.261 ms
+ 4  68.86.223.249 (68.86.223.249)  23.238 ms  23.251 ms  23.251 ms
+ 5  96.108.142.197 (96.108.142.197)  23.315 ms  23.320 ms  23.320 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  23.385 ms  21.513 ms  21.490 ms
+ 7  be-31113-cs01.newark.nj.ibone.comcast.net (96.110.42.33)  28.573 ms  23.434 ms  23.434 ms
+ 8  be-2102-pe02.newark.nj.ibone.comcast.net (96.110.37.50)  23.417 ms  20.569 ms  20.577 ms
+ 9  50.242.150.178 (50.242.150.178)  24.225 ms  24.239 ms  24.236 ms
+10  151.101.1.224 (151.101.1.224)  24.193 ms  24.212 ms  24.206 ms
+[Apr 04 23:33:21]
+PING 151.101.1.224 (151.101.1.224) 56(84) bytes of data.
+64 bytes from 151.101.1.224: icmp_seq=1 ttl=55 time=34.2 ms
+64 bytes from 151.101.1.224: icmp_seq=2 ttl=55 time=25.2 ms
+64 bytes from 151.101.1.224: icmp_seq=3 ttl=55 time=22.5 ms
+64 bytes from 151.101.1.224: icmp_seq=4 ttl=55 time=78.2 ms
+64 bytes from 151.101.1.224: icmp_seq=5 ttl=55 time=70.3 ms
+64 bytes from 151.101.1.224: icmp_seq=6 ttl=55 time=35.7 ms
+64 bytes from 151.101.1.224: icmp_seq=7 ttl=55 time=28.7 ms
+64 bytes from 151.101.1.224: icmp_seq=8 ttl=55 time=29.2 ms
+64 bytes from 151.101.1.224: icmp_seq=9 ttl=55 time=28.2 ms
+64 bytes from 151.101.1.224: icmp_seq=10 ttl=55 time=29.7 ms
+[Apr 04 23:33:31]
+traceroute to 151.101.1.224 (151.101.1.224), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  0.781 ms  0.773 ms  0.771 ms
+ 2  testwifi.here (192.168.86.1)  9.600 ms  9.612 ms  9.609 ms
+ 3  96.120.74.249 (96.120.74.249)  18.223 ms  18.231 ms  18.228 ms
+ 4  68.86.223.249 (68.86.223.249)  21.925 ms  21.932 ms  21.928 ms
+ 5  96.108.142.197 (96.108.142.197)  19.359 ms  22.518 ms  31.525 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  31.518 ms  28.682 ms  28.667 ms
+ 7  be-31113-cs01.newark.nj.ibone.comcast.net (96.110.42.33)  36.517 ms  20.337 ms  20.332 ms
+ 8  be-2102-pe02.newark.nj.ibone.comcast.net (96.110.37.50)  22.660 ms  36.791 ms  36.747 ms
+ 9  50.242.150.178 (50.242.150.178)  48.679 ms  48.699 ms  25.886 ms
+10  151.101.1.224 (151.101.1.224)  25.306 ms  25.311 ms  25.308 ms
+[Apr 04 23:33:36]
+PING 151.101.1.224 (151.101.1.224) 56(84) bytes of data.
+64 bytes from 151.101.1.224: icmp_seq=1 ttl=55 time=28.0 ms
+64 bytes from 151.101.1.224: icmp_seq=2 ttl=55 time=29.6 ms
+64 bytes from 151.101.1.224: icmp_seq=3 ttl=55 time=39.1 ms
+64 bytes from 151.101.1.224: icmp_seq=4 ttl=55 time=40.7 ms
+64 bytes from 151.101.1.224: icmp_seq=5 ttl=55 time=29.1 ms
+64 bytes from 151.101.1.224: icmp_seq=7 ttl=55 time=29.5 ms
+64 bytes from 151.101.1.224: icmp_seq=8 ttl=55 time=25.5 ms
+64 bytes from 151.101.1.224: icmp_seq=9 ttl=55 time=30.5 ms
+64 bytes from 151.101.1.224: icmp_seq=10 ttl=55 time=30.0 ms
+
+[Apr 04 23:33:46]
+traceroute to 31.13.71.49 (31.13.71.49), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  0.511 ms  0.536 ms  0.535 ms
+ 2  testwifi.here (192.168.86.1)  28.853 ms  28.896 ms  28.898 ms
+ 3  96.120.74.249 (96.120.74.249)  67.278 ms  67.288 ms  67.288 ms
+ 4  68.86.223.249 (68.86.223.249)  42.217 ms  42.227 ms  42.226 ms
+ 5  96.108.142.197 (96.108.142.197)  67.280 ms  67.280 ms  67.280 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  67.258 ms  65.683 ms  65.659 ms
+ 7  be-31123-cs02.newark.nj.ibone.comcast.net (96.110.42.37)  85.730 ms  55.763 ms  55.748 ms
+ 8  be-1201-cr01.newark.nj.ibone.comcast.net (96.110.36.86)  67.542 ms  24.820 ms  24.805 ms
+ 9  be-10203-cr02.newyork.ny.ibone.comcast.net (68.86.85.186)  24.780 ms  24.787 ms  28.415 ms
+10  be-10368-pe01.111eighthave.ny.ibone.comcast.net (68.86.84.218)  24.797 ms  24.798 ms  24.792 ms
+11  66.208.232.174 (66.208.232.174)  25.024 ms  24.178 ms  25.019 ms
+12  po104.psw02.lga3.tfbnw.net (157.240.47.29)  24.211 ms  24.212 ms  27.381 ms
+13  173.252.67.93 (173.252.67.93)  27.350 ms  27.366 ms  24.159 ms
+14  whatsapp-cdn-shv-01-lga3.fbcdn.net (31.13.71.49)  24.056 ms  24.071 ms  24.069 ms
+[Apr 04 23:33:52]
+PING 31.13.71.49 (31.13.71.49) 56(84) bytes of data.
+64 bytes from 31.13.71.49: icmp_seq=1 ttl=51 time=52.1 ms
+64 bytes from 31.13.71.49: icmp_seq=2 ttl=51 time=27.1 ms
+64 bytes from 31.13.71.49: icmp_seq=3 ttl=51 time=30.7 ms
+64 bytes from 31.13.71.49: icmp_seq=4 ttl=51 time=31.1 ms
+64 bytes from 31.13.71.49: icmp_seq=5 ttl=51 time=61.2 ms
+64 bytes from 31.13.71.49: icmp_seq=6 ttl=51 time=25.2 ms
+64 bytes from 31.13.71.49: icmp_seq=7 ttl=51 time=33.1 ms
+64 bytes from 31.13.71.49: icmp_seq=8 ttl=51 time=35.7 ms
+64 bytes from 31.13.71.49: icmp_seq=9 ttl=51 time=34.7 ms
+64 bytes from 31.13.71.49: icmp_seq=10 ttl=51 time=56.8 ms
+[Apr 04 23:34:02]
+traceroute to 31.13.71.49 (31.13.71.49), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  1.606 ms  1.657 ms  1.658 ms
+ 2  testwifi.here (192.168.86.1)  12.831 ms  12.877 ms  12.875 ms
+ 3  96.120.74.249 (96.120.74.249)  18.485 ms  18.492 ms  18.488 ms
+ 4  68.86.223.249 (68.86.223.249)  20.465 ms  20.468 ms  20.465 ms
+ 5  96.108.142.197 (96.108.142.197)  18.463 ms  20.453 ms  20.449 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  20.386 ms  16.327 ms  19.597 ms
+ 7  be-31123-cs02.newark.nj.ibone.comcast.net (96.110.42.37)  24.710 ms  18.997 ms  18.993 ms
+ 8  be-1201-cr01.newark.nj.ibone.comcast.net (96.110.36.86)  23.358 ms  32.026 ms  32.062 ms
+ 9  be-10203-cr02.newyork.ny.ibone.comcast.net (68.86.85.186)  32.010 ms  32.055 ms  32.058 ms
+10  be-10368-pe01.111eighthave.ny.ibone.comcast.net (68.86.84.218)  32.109 ms  32.114 ms  32.114 ms
+11  66.208.232.174 (66.208.232.174)  27.991 ms  27.991 ms  27.992 ms
+12  po104.psw02.lga3.tfbnw.net (157.240.47.29)  27.923 ms  27.970 ms  26.482 ms
+13  173.252.67.93 (173.252.67.93)  26.464 ms  26.471 ms  17.519 ms
+14  whatsapp-cdn-shv-01-lga3.fbcdn.net (31.13.71.49)  17.488 ms  17.496 ms  17.495 ms
+[Apr 04 23:34:08]
+PING 31.13.71.49 (31.13.71.49) 56(84) bytes of data.
+64 bytes from 31.13.71.49: icmp_seq=1 ttl=51 time=28.3 ms
+64 bytes from 31.13.71.49: icmp_seq=2 ttl=51 time=27.9 ms
+64 bytes from 31.13.71.49: icmp_seq=3 ttl=51 time=30.0 ms
+64 bytes from 31.13.71.49: icmp_seq=4 ttl=51 time=23.0 ms
+64 bytes from 31.13.71.49: icmp_seq=5 ttl=51 time=33.4 ms
+64 bytes from 31.13.71.49: icmp_seq=6 ttl=51 time=30.9 ms
+64 bytes from 31.13.71.49: icmp_seq=7 ttl=51 time=43.8 ms
+64 bytes from 31.13.71.49: icmp_seq=8 ttl=51 time=24.6 ms
+64 bytes from 31.13.71.49: icmp_seq=9 ttl=51 time=27.2 ms
+64 bytes from 31.13.71.49: icmp_seq=10 ttl=51 time=53.1 ms
+
+[Apr 04 23:34:18]
+traceroute to 31.13.71.36 (31.13.71.36), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  0.333 ms  0.612 ms  0.612 ms
+ 2  testwifi.here (192.168.86.1)  15.982 ms  16.031 ms  16.050 ms
+ 3  96.120.74.249 (96.120.74.249)  19.400 ms  19.400 ms  19.400 ms
+ 4  68.86.223.249 (68.86.223.249)  19.377 ms  19.390 ms  19.391 ms
+ 5  96.108.142.197 (96.108.142.197)  19.394 ms  19.395 ms  19.395 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  23.280 ms  21.694 ms  21.669 ms
+ 7  be-31133-cs03.newark.nj.ibone.comcast.net (96.110.42.41)  29.639 ms  20.844 ms  20.839 ms
+ 8  be-1301-cr01.newark.nj.ibone.comcast.net (96.110.36.90)  20.835 ms  21.542 ms  21.530 ms
+ 9  be-10203-cr02.newyork.ny.ibone.comcast.net (68.86.85.186)  23.555 ms  23.564 ms  23.560 ms
+10  be-10368-pe01.111eighthave.ny.ibone.comcast.net (68.86.84.218)  21.468 ms  21.485 ms  21.484 ms
+11  66.208.232.174 (66.208.232.174)  23.757 ms  23.738 ms  23.743 ms
+12  po104.psw04.lga3.tfbnw.net (157.240.47.33)  23.736 ms  20.930 ms  20.909 ms
+13  173.252.67.187 (173.252.67.187)  20.899 ms  27.260 ms  42.091 ms
+14  edge-star-mini-shv-01-lga3.facebook.com (31.13.71.36)  42.053 ms  42.055 ms  42.050 ms
+[Apr 04 23:34:23]
+PING 31.13.71.36 (31.13.71.36) 56(84) bytes of data.
+64 bytes from 31.13.71.36: icmp_seq=1 ttl=51 time=34.2 ms
+64 bytes from 31.13.71.36: icmp_seq=2 ttl=51 time=25.7 ms
+64 bytes from 31.13.71.36: icmp_seq=3 ttl=51 time=41.4 ms
+64 bytes from 31.13.71.36: icmp_seq=4 ttl=51 time=86.1 ms
+64 bytes from 31.13.71.36: icmp_seq=5 ttl=51 time=29.1 ms
+64 bytes from 31.13.71.36: icmp_seq=6 ttl=51 time=29.6 ms
+64 bytes from 31.13.71.36: icmp_seq=7 ttl=51 time=29.0 ms
+64 bytes from 31.13.71.36: icmp_seq=8 ttl=51 time=24.5 ms
+64 bytes from 31.13.71.36: icmp_seq=9 ttl=51 time=26.7 ms
+64 bytes from 31.13.71.36: icmp_seq=10 ttl=51 time=36.9 ms
+[Apr 04 23:34:33]
+traceroute to 31.13.71.36 (31.13.71.36), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  1.088 ms  1.108 ms  1.108 ms
+ 2  testwifi.here (192.168.86.1)  9.610 ms  9.667 ms  9.668 ms
+ 3  96.120.74.249 (96.120.74.249)  20.366 ms  20.378 ms  20.377 ms
+ 4  68.86.223.249 (68.86.223.249)  19.241 ms  19.257 ms  19.258 ms
+ 5  96.108.142.197 (96.108.142.197)  20.367 ms  20.367 ms  20.366 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  22.324 ms  20.010 ms  19.998 ms
+ 7  be-31133-cs03.newark.nj.ibone.comcast.net (96.110.42.41)  24.062 ms  17.628 ms  22.228 ms
+ 8  be-1301-cr01.newark.nj.ibone.comcast.net (96.110.36.90)  24.231 ms  22.716 ms  22.727 ms
+ 9  be-10203-cr02.newyork.ny.ibone.comcast.net (68.86.85.186)  22.706 ms  22.717 ms  22.715 ms
+10  be-10368-pe01.111eighthave.ny.ibone.comcast.net (68.86.84.218)  22.678 ms  22.710 ms  22.710 ms
+11  66.208.232.174 (66.208.232.174)  31.115 ms  25.960 ms  25.985 ms
+12  po104.psw04.lga3.tfbnw.net (157.240.47.33)  21.745 ms  21.790 ms  21.787 ms
+13  173.252.67.187 (173.252.67.187)  21.781 ms  21.776 ms  22.080 ms
+14  edge-star-mini-shv-01-lga3.facebook.com (31.13.71.36)  22.085 ms  22.090 ms  22.088 ms
+[Apr 04 23:34:39]
+PING 31.13.71.36 (31.13.71.36) 56(84) bytes of data.
+64 bytes from 31.13.71.36: icmp_seq=1 ttl=51 time=32.0 ms
+64 bytes from 31.13.71.36: icmp_seq=2 ttl=51 time=37.1 ms
+64 bytes from 31.13.71.36: icmp_seq=3 ttl=51 time=21.8 ms
+64 bytes from 31.13.71.36: icmp_seq=4 ttl=51 time=68.9 ms
+64 bytes from 31.13.71.36: icmp_seq=5 ttl=51 time=26.4 ms
+64 bytes from 31.13.71.36: icmp_seq=6 ttl=51 time=25.6 ms
+64 bytes from 31.13.71.36: icmp_seq=7 ttl=51 time=31.0 ms
+64 bytes from 31.13.71.36: icmp_seq=8 ttl=51 time=35.7 ms
+64 bytes from 31.13.71.36: icmp_seq=9 ttl=51 time=55.1 ms
+64 bytes from 31.13.71.36: icmp_seq=10 ttl=51 time=32.4 ms
+
+[Apr 04 23:34:49]
+traceroute to 151.101.65.67 (151.101.65.67), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  0.719 ms  0.710 ms  0.707 ms
+ 2  testwifi.here (192.168.86.1)  12.702 ms  12.713 ms  12.709 ms
+ 3  96.120.74.249 (96.120.74.249)  22.442 ms  22.449 ms  26.890 ms
+ 4  68.86.223.249 (68.86.223.249)  26.861 ms  26.872 ms  26.869 ms
+ 5  96.108.142.197 (96.108.142.197)  26.866 ms  26.864 ms  26.861 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  26.994 ms  24.398 ms  24.387 ms
+ 7  be-31133-cs03.newark.nj.ibone.comcast.net (96.110.42.41)  26.394 ms  22.075 ms  22.073 ms
+ 8  be-2303-pe03.newark.nj.ibone.comcast.net (96.110.37.74)  22.053 ms  20.323 ms  20.307 ms
+ 9  23.30.207.38 (23.30.207.38)  28.461 ms  28.507 ms  28.509 ms
+10  151.101.65.67 (151.101.65.67)  28.499 ms  28.507 ms  28.506 ms
+[Apr 04 23:34:54]
+PING 151.101.65.67 (151.101.65.67) 56(84) bytes of data.
+64 bytes from 151.101.65.67: icmp_seq=1 ttl=55 time=29.8 ms
+64 bytes from 151.101.65.67: icmp_seq=2 ttl=55 time=27.7 ms
+64 bytes from 151.101.65.67: icmp_seq=3 ttl=55 time=29.3 ms
+64 bytes from 151.101.65.67: icmp_seq=4 ttl=55 time=25.0 ms
+64 bytes from 151.101.65.67: icmp_seq=5 ttl=55 time=39.5 ms
+64 bytes from 151.101.65.67: icmp_seq=6 ttl=55 time=38.5 ms
+64 bytes from 151.101.65.67: icmp_seq=7 ttl=55 time=23.8 ms
+64 bytes from 151.101.65.67: icmp_seq=8 ttl=55 time=34.3 ms
+64 bytes from 151.101.65.67: icmp_seq=9 ttl=55 time=37.6 ms
+64 bytes from 151.101.65.67: icmp_seq=10 ttl=55 time=26.3 ms
+[Apr 04 23:35:04]
+traceroute to 151.101.65.67 (151.101.65.67), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  1.026 ms  1.022 ms  1.021 ms
+ 2  testwifi.here (192.168.86.1)  9.999 ms  10.012 ms  10.013 ms
+ 3  96.120.74.249 (96.120.74.249)  19.071 ms  19.081 ms  20.480 ms
+ 4  68.86.223.249 (68.86.223.249)  21.361 ms  21.366 ms  21.364 ms
+ 5  96.108.142.197 (96.108.142.197)  20.482 ms  21.774 ms  21.776 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  21.768 ms  19.513 ms  19.504 ms
+ 7  be-31133-cs03.newark.nj.ibone.comcast.net (96.110.42.41)  30.104 ms  18.771 ms  18.767 ms
+ 8  be-2303-pe03.newark.nj.ibone.comcast.net (96.110.37.74)  22.081 ms  19.095 ms  19.089 ms
+ 9  23.30.207.38 (23.30.207.38)  19.068 ms  22.489 ms  22.598 ms
+10  151.101.65.67 (151.101.65.67)  22.568 ms  22.572 ms  22.567 ms
+[Apr 04 23:35:10]
+PING 151.101.65.67 (151.101.65.67) 56(84) bytes of data.
+64 bytes from 151.101.65.67: icmp_seq=1 ttl=55 time=27.7 ms
+64 bytes from 151.101.65.67: icmp_seq=2 ttl=55 time=27.4 ms
+64 bytes from 151.101.65.67: icmp_seq=3 ttl=55 time=24.6 ms
+64 bytes from 151.101.65.67: icmp_seq=4 ttl=55 time=25.9 ms
+64 bytes from 151.101.65.67: icmp_seq=5 ttl=55 time=26.9 ms
+64 bytes from 151.101.65.67: icmp_seq=6 ttl=55 time=22.0 ms
+64 bytes from 151.101.65.67: icmp_seq=7 ttl=55 time=37.5 ms
+64 bytes from 151.101.65.67: icmp_seq=8 ttl=55 time=58.5 ms
+64 bytes from 151.101.65.67: icmp_seq=9 ttl=55 time=33.1 ms
+64 bytes from 151.101.65.67: icmp_seq=10 ttl=55 time=24.7 ms
+
+[Apr 04 23:35:20]
+traceroute to 151.101.65.164 (151.101.65.164), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  0.399 ms  0.395 ms  0.394 ms
+ 2  testwifi.here (192.168.86.1)  13.209 ms  13.227 ms  13.229 ms
+ 3  96.120.74.249 (96.120.74.249)  20.703 ms  20.713 ms  20.711 ms
+ 4  68.86.223.249 (68.86.223.249)  18.161 ms  18.174 ms  18.174 ms
+ 5  96.108.142.197 (96.108.142.197)  25.658 ms  25.667 ms  25.667 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  25.650 ms  23.868 ms  23.858 ms
+ 7  be-31123-cs02.newark.nj.ibone.comcast.net (96.110.42.37)  23.857 ms  23.110 ms  23.105 ms
+ 8  be-2202-pe02.newark.nj.ibone.comcast.net (96.110.37.54)  23.086 ms  19.924 ms  19.950 ms
+ 9  50.242.150.178 (50.242.150.178)  21.426 ms  21.477 ms  21.476 ms
+10  151.101.65.164 (151.101.65.164)  21.403 ms  21.456 ms  21.455 ms
+[Apr 04 23:35:25]
+PING 151.101.65.164 (151.101.65.164) 56(84) bytes of data.
+64 bytes from 151.101.65.164: icmp_seq=1 ttl=55 time=28.4 ms
+64 bytes from 151.101.65.164: icmp_seq=2 ttl=55 time=33.9 ms
+64 bytes from 151.101.65.164: icmp_seq=3 ttl=55 time=34.7 ms
+64 bytes from 151.101.65.164: icmp_seq=4 ttl=55 time=28.5 ms
+64 bytes from 151.101.65.164: icmp_seq=5 ttl=55 time=28.4 ms
+64 bytes from 151.101.65.164: icmp_seq=6 ttl=55 time=32.9 ms
+64 bytes from 151.101.65.164: icmp_seq=7 ttl=55 time=18.3 ms
+64 bytes from 151.101.65.164: icmp_seq=8 ttl=55 time=75.0 ms
+64 bytes from 151.101.65.164: icmp_seq=9 ttl=55 time=30.0 ms
+64 bytes from 151.101.65.164: icmp_seq=10 ttl=55 time=41.5 ms
+[Apr 04 23:35:35]
+traceroute to 151.101.65.164 (151.101.65.164), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  0.295 ms  0.293 ms  0.294 ms
+ 2  testwifi.here (192.168.86.1)  10.046 ms  10.092 ms  10.094 ms
+ 3  96.120.74.249 (96.120.74.249)  21.044 ms  21.048 ms  20.343 ms
+ 4  68.86.223.249 (68.86.223.249)  21.634 ms  21.644 ms  21.644 ms
+ 5  96.108.142.197 (96.108.142.197)  20.331 ms  20.331 ms  20.331 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  20.289 ms  18.877 ms  18.867 ms
+ 7  be-31123-cs02.newark.nj.ibone.comcast.net (96.110.42.37)  30.530 ms  21.123 ms  21.120 ms
+ 8  be-2202-pe02.newark.nj.ibone.comcast.net (96.110.37.54)  21.100 ms  53.824 ms  53.923 ms
+ 9  50.242.150.178 (50.242.150.178)  66.224 ms  66.308 ms  66.315 ms
+10  151.101.65.164 (151.101.65.164)  66.193 ms  66.299 ms  66.305 ms
+[Apr 04 23:35:41]
+PING 151.101.65.164 (151.101.65.164) 56(84) bytes of data.
+64 bytes from 151.101.65.164: icmp_seq=1 ttl=55 time=32.9 ms
+64 bytes from 151.101.65.164: icmp_seq=2 ttl=55 time=73.1 ms
+64 bytes from 151.101.65.164: icmp_seq=3 ttl=55 time=28.1 ms
+64 bytes from 151.101.65.164: icmp_seq=4 ttl=55 time=28.0 ms
+64 bytes from 151.101.65.164: icmp_seq=5 ttl=55 time=32.1 ms
+64 bytes from 151.101.65.164: icmp_seq=6 ttl=55 time=25.7 ms
+64 bytes from 151.101.65.164: icmp_seq=7 ttl=55 time=49.4 ms
+64 bytes from 151.101.65.164: icmp_seq=8 ttl=55 time=38.4 ms
+64 bytes from 151.101.65.164: icmp_seq=9 ttl=55 time=26.4 ms
+64 bytes from 151.101.65.164: icmp_seq=10 ttl=55 time=32.3 ms
+
+[Apr 04 23:35:51]
+traceroute to 23.8.173.150 (23.8.173.150), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  1.752 ms  1.796 ms  1.796 ms
+ 2  testwifi.here (192.168.86.1)  11.742 ms  11.796 ms  11.793 ms
+ 3  96.120.74.249 (96.120.74.249)  29.041 ms  29.051 ms  29.048 ms
+ 4  68.86.223.249 (68.86.223.249)  25.919 ms  25.929 ms  25.925 ms
+ 5  96.108.142.197 (96.108.142.197)  29.026 ms  29.026 ms  29.024 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  29.020 ms  24.804 ms  25.013 ms
+ 7  be-31123-cs02.newark.nj.ibone.comcast.net (96.110.42.37)  25.004 ms  19.177 ms  19.176 ms
+ 8  be-1201-cr01.newark.nj.ibone.comcast.net (96.110.36.86)  21.909 ms  30.144 ms  30.153 ms
+ 9  be-10203-cr02.newyork.ny.ibone.comcast.net (68.86.85.186)  30.103 ms  30.128 ms  30.126 ms
+10  be-10390-pe03.111eighthave.ny.ibone.comcast.net (68.86.83.90)  30.082 ms  30.107 ms  32.902 ms
+11  ae20.cr2-nyc6.ip4.gtt.net (173.205.52.233)  35.121 ms  35.060 ms  35.106 ms
+12  ae22.cr3-lax1.ip4.gtt.net (89.149.181.102)  121.070 ms  120.953 ms  118.568 ms
+13  a23-8-173-150.deploy.static.akamaitechnologies.com (23.8.173.150)  118.478 ms  118.474 ms  110.797 ms
+[Apr 04 23:35:54]
+PING 23.8.173.150 (23.8.173.150) 56(84) bytes of data.
+64 bytes from 23.8.173.150: icmp_seq=1 ttl=51 time=119 ms
+64 bytes from 23.8.173.150: icmp_seq=2 ttl=51 time=110 ms
+64 bytes from 23.8.173.150: icmp_seq=3 ttl=51 time=147 ms
+64 bytes from 23.8.173.150: icmp_seq=4 ttl=51 time=132 ms
+64 bytes from 23.8.173.150: icmp_seq=5 ttl=51 time=126 ms
+64 bytes from 23.8.173.150: icmp_seq=6 ttl=51 time=119 ms
+64 bytes from 23.8.173.150: icmp_seq=7 ttl=51 time=118 ms
+64 bytes from 23.8.173.150: icmp_seq=8 ttl=51 time=120 ms
+64 bytes from 23.8.173.150: icmp_seq=10 ttl=51 time=137 ms
+[Apr 04 23:36:04]
+traceroute to 23.8.173.150 (23.8.173.150), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  0.674 ms  0.697 ms  0.697 ms
+ 2  testwifi.here (192.168.86.1)  11.394 ms  11.449 ms  11.448 ms
+ 3  96.120.74.249 (96.120.74.249)  21.407 ms  21.413 ms  21.410 ms
+ 4  68.86.223.249 (68.86.223.249)  22.518 ms  22.519 ms  22.516 ms
+ 5  96.108.142.197 (96.108.142.197)  21.387 ms  21.383 ms  21.378 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  22.012 ms  18.835 ms  18.818 ms
+ 7  be-31123-cs02.newark.nj.ibone.comcast.net (96.110.42.37)  40.477 ms  22.006 ms  21.992 ms
+ 8  be-1201-cr01.newark.nj.ibone.comcast.net (96.110.36.86)  25.916 ms  23.433 ms  23.426 ms
+ 9  be-10203-cr02.newyork.ny.ibone.comcast.net (68.86.85.186)  23.425 ms  23.438 ms  23.436 ms
+10  be-10390-pe03.111eighthave.ny.ibone.comcast.net (68.86.83.90)  23.452 ms  23.458 ms  28.595 ms
+11  ae20.cr2-nyc6.ip4.gtt.net (173.205.52.233)  27.520 ms  27.573 ms  27.563 ms
+12  ae22.cr3-lax1.ip4.gtt.net (89.149.181.102)  128.400 ms  128.500 ms  128.485 ms
+13  a23-8-173-150.deploy.static.akamaitechnologies.com (23.8.173.150)  118.011 ms  118.100 ms  113.924 ms
+[Apr 04 23:36:08]
+PING 23.8.173.150 (23.8.173.150) 56(84) bytes of data.
+64 bytes from 23.8.173.150: icmp_seq=1 ttl=51 time=139 ms
+64 bytes from 23.8.173.150: icmp_seq=2 ttl=51 time=185 ms
+64 bytes from 23.8.173.150: icmp_seq=3 ttl=51 time=230 ms
+64 bytes from 23.8.173.150: icmp_seq=4 ttl=51 time=119 ms
+64 bytes from 23.8.173.150: icmp_seq=5 ttl=51 time=172 ms
+64 bytes from 23.8.173.150: icmp_seq=6 ttl=51 time=142 ms
+64 bytes from 23.8.173.150: icmp_seq=7 ttl=51 time=196 ms
+64 bytes from 23.8.173.150: icmp_seq=8 ttl=51 time=88.3 ms
+64 bytes from 23.8.173.150: icmp_seq=9 ttl=51 time=164 ms
+64 bytes from 23.8.173.150: icmp_seq=10 ttl=51 time=160 ms
+
+[Apr 04 23:36:18]
+traceroute to 104.18.24.142 (104.18.24.142), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  1.153 ms  1.173 ms  1.174 ms
+ 2  testwifi.here (192.168.86.1)  12.961 ms  13.008 ms  13.009 ms
+ 3  96.120.74.249 (96.120.74.249)  19.188 ms  19.198 ms  29.281 ms
+ 4  68.86.223.249 (68.86.223.249)  30.631 ms  30.641 ms  30.639 ms
+ 5  96.108.142.197 (96.108.142.197)  29.277 ms  29.276 ms  29.298 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  29.234 ms  26.813 ms  26.803 ms
+ 7  be-31143-cs04.newark.nj.ibone.comcast.net (96.110.42.45)  41.218 ms  19.845 ms  19.828 ms
+ 8  be-1401-cr01.newark.nj.ibone.comcast.net (96.110.36.94)  19.799 ms  21.346 ms  21.330 ms
+ 9  be-10102-cr02.ashburn.va.ibone.comcast.net (68.86.85.161)  57.822 ms  57.885 ms  57.885 ms
+10  be-10130-pe04.ashburn.va.ibone.comcast.net (68.86.82.214)  57.880 ms  57.878 ms  57.876 ms
+11  as2906-c-4.sanjose.ibone.comcast.net (173.167.57.102)  88.159 ms  88.204 ms  88.200 ms
+12  104.18.24.142 (104.18.24.142)  65.422 ms  65.401 ms  65.403 ms
+[Apr 04 23:36:22]
+PING 104.18.24.142 (104.18.24.142) 56(84) bytes of data.
+64 bytes from 104.18.24.142: icmp_seq=1 ttl=55 time=38.3 ms
+64 bytes from 104.18.24.142: icmp_seq=2 ttl=55 time=48.7 ms
+64 bytes from 104.18.24.142: icmp_seq=3 ttl=55 time=27.8 ms
+64 bytes from 104.18.24.142: icmp_seq=4 ttl=55 time=39.8 ms
+64 bytes from 104.18.24.142: icmp_seq=5 ttl=55 time=45.2 ms
+64 bytes from 104.18.24.142: icmp_seq=6 ttl=55 time=36.3 ms
+64 bytes from 104.18.24.142: icmp_seq=7 ttl=55 time=59.6 ms
+64 bytes from 104.18.24.142: icmp_seq=8 ttl=55 time=28.2 ms
+64 bytes from 104.18.24.142: icmp_seq=9 ttl=55 time=41.4 ms
+64 bytes from 104.18.24.142: icmp_seq=10 ttl=55 time=33.8 ms
+[Apr 04 23:36:32]
+traceroute to 104.18.24.142 (104.18.24.142), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  0.786 ms  0.785 ms  0.784 ms
+ 2  testwifi.here (192.168.86.1)  9.738 ms  9.800 ms  9.808 ms
+ 3  96.120.74.249 (96.120.74.249)  21.575 ms  21.591 ms  21.590 ms
+ 4  68.86.223.249 (68.86.223.249)  24.109 ms  24.109 ms  24.108 ms
+ 5  96.108.142.197 (96.108.142.197)  24.087 ms  24.099 ms  24.099 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  25.126 ms  23.500 ms  23.493 ms
+ 7  be-31143-cs04.newark.nj.ibone.comcast.net (96.110.42.45)  27.679 ms  32.367 ms  32.354 ms
+ 8  be-1401-cr01.newark.nj.ibone.comcast.net (96.110.36.94)  32.308 ms  22.768 ms  22.762 ms
+ 9  be-10102-cr02.ashburn.va.ibone.comcast.net (68.86.85.161)  26.919 ms  42.187 ms  42.180 ms
+10  be-10130-pe04.ashburn.va.ibone.comcast.net (68.86.82.214)  42.085 ms  42.160 ms  42.163 ms
+11  as2906-c-4.sanjose.ibone.comcast.net (173.167.57.102)  42.366 ms  42.378 ms  42.379 ms
+12  104.18.24.142 (104.18.24.142)  42.102 ms  42.102 ms  42.102 ms
+[Apr 04 23:36:37]
+PING 104.18.24.142 (104.18.24.142) 56(84) bytes of data.
+64 bytes from 104.18.24.142: icmp_seq=1 ttl=55 time=36.3 ms
+64 bytes from 104.18.24.142: icmp_seq=2 ttl=55 time=39.1 ms
+64 bytes from 104.18.24.142: icmp_seq=3 ttl=55 time=35.3 ms
+64 bytes from 104.18.24.142: icmp_seq=4 ttl=55 time=72.5 ms
+64 bytes from 104.18.24.142: icmp_seq=5 ttl=55 time=176 ms
+64 bytes from 104.18.24.142: icmp_seq=6 ttl=55 time=56.1 ms
+64 bytes from 104.18.24.142: icmp_seq=7 ttl=55 time=59.8 ms
+64 bytes from 104.18.24.142: icmp_seq=8 ttl=55 time=83.1 ms
+64 bytes from 104.18.24.142: icmp_seq=9 ttl=55 time=38.6 ms
+64 bytes from 104.18.24.142: icmp_seq=10 ttl=55 time=106 ms
+
+[Apr 04 23:36:47]
+traceroute to 104.105.80.103 (104.105.80.103), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  0.815 ms  0.812 ms  0.812 ms
+ 2  testwifi.here (192.168.86.1)  21.605 ms  21.622 ms  21.622 ms
+ 3  96.120.74.249 (96.120.74.249)  45.237 ms  45.249 ms  45.248 ms
+ 4  68.86.223.249 (68.86.223.249)  25.224 ms  25.234 ms  25.232 ms
+ 5  96.108.142.197 (96.108.142.197)  64.872 ms  64.891 ms  64.892 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  64.899 ms  63.007 ms  62.999 ms
+ 7  be-31123-cs02.newark.nj.ibone.comcast.net (96.110.42.37)  133.009 ms  36.626 ms  36.594 ms
+ 8  be-1201-cr01.newark.nj.ibone.comcast.net (96.110.36.86)  48.146 ms  20.848 ms  20.861 ms
+ 9  be-10203-cr02.newyork.ny.ibone.comcast.net (68.86.85.186)  20.841 ms  20.853 ms  20.853 ms
+10  be-10390-pe03.111eighthave.ny.ibone.comcast.net (68.86.83.90)  26.142 ms  26.176 ms  26.177 ms
+11  50.242.148.114 (50.242.148.114)  26.449 ms  26.451 ms  26.449 ms
+12  a104-105-80-103.deploy.static.akamaitechnologies.com (104.105.80.103)  23.717 ms  21.819 ms  21.808 ms
+[Apr 04 23:36:51]
+PING 104.105.80.103 (104.105.80.103) 56(84) bytes of data.
+64 bytes from 104.105.80.103: icmp_seq=1 ttl=53 time=31.0 ms
+64 bytes from 104.105.80.103: icmp_seq=2 ttl=53 time=33.6 ms
+64 bytes from 104.105.80.103: icmp_seq=3 ttl=53 time=20.6 ms
+64 bytes from 104.105.80.103: icmp_seq=4 ttl=53 time=50.4 ms
+64 bytes from 104.105.80.103: icmp_seq=5 ttl=53 time=31.7 ms
+64 bytes from 104.105.80.103: icmp_seq=6 ttl=53 time=60.3 ms
+64 bytes from 104.105.80.103: icmp_seq=7 ttl=53 time=37.3 ms
+64 bytes from 104.105.80.103: icmp_seq=8 ttl=53 time=26.0 ms
+64 bytes from 104.105.80.103: icmp_seq=9 ttl=53 time=29.6 ms
+64 bytes from 104.105.80.103: icmp_seq=10 ttl=53 time=49.0 ms
+[Apr 04 23:37:01]
+traceroute to 104.105.80.103 (104.105.80.103), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  0.260 ms  0.253 ms  0.252 ms
+ 2  testwifi.here (192.168.86.1)  15.538 ms  15.571 ms  15.571 ms
+ 3  96.120.74.249 (96.120.74.249)  27.806 ms  27.813 ms  27.813 ms
+ 4  68.86.223.249 (68.86.223.249)  24.938 ms  24.948 ms  24.946 ms
+ 5  96.108.142.197 (96.108.142.197)  29.167 ms  29.178 ms  29.177 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  29.160 ms  27.538 ms  27.523 ms
+ 7  be-31123-cs02.newark.nj.ibone.comcast.net (96.110.42.37)  27.519 ms  19.498 ms  19.489 ms
+ 8  be-1201-cr01.newark.nj.ibone.comcast.net (96.110.36.86)  19.470 ms  22.351 ms  22.347 ms
+ 9  be-10203-cr02.newyork.ny.ibone.comcast.net (68.86.85.186)  22.329 ms  22.343 ms  22.344 ms
+10  be-10390-pe03.111eighthave.ny.ibone.comcast.net (68.86.83.90)  22.323 ms  29.509 ms  29.519 ms
+11  50.242.148.114 (50.242.148.114)  48.762 ms  48.797 ms  48.797 ms
+12  a104-105-80-103.deploy.static.akamaitechnologies.com (104.105.80.103)  27.519 ms  27.557 ms  27.558 ms
+[Apr 04 23:37:06]
+PING 104.105.80.103 (104.105.80.103) 56(84) bytes of data.
+64 bytes from 104.105.80.103: icmp_seq=1 ttl=53 time=31.2 ms
+64 bytes from 104.105.80.103: icmp_seq=2 ttl=53 time=20.1 ms
+64 bytes from 104.105.80.103: icmp_seq=3 ttl=53 time=29.9 ms
+64 bytes from 104.105.80.103: icmp_seq=4 ttl=53 time=30.8 ms
+64 bytes from 104.105.80.103: icmp_seq=5 ttl=53 time=18.7 ms
+64 bytes from 104.105.80.103: icmp_seq=6 ttl=53 time=25.6 ms
+64 bytes from 104.105.80.103: icmp_seq=7 ttl=53 time=22.9 ms
+64 bytes from 104.105.80.103: icmp_seq=8 ttl=53 time=26.5 ms
+64 bytes from 104.105.80.103: icmp_seq=9 ttl=53 time=23.6 ms
+64 bytes from 104.105.80.103: icmp_seq=10 ttl=53 time=24.1 ms
+
+[Apr 04 23:37:16]
+traceroute to 104.78.191.105 (104.78.191.105), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  0.297 ms  0.305 ms  0.304 ms
+ 2  testwifi.here (192.168.86.1)  17.406 ms  17.438 ms  17.438 ms
+ 3  96.120.74.249 (96.120.74.249)  27.188 ms  27.191 ms  27.190 ms
+ 4  68.86.223.249 (68.86.223.249)  26.670 ms  26.678 ms  26.677 ms
+ 5  96.108.142.197 (96.108.142.197)  27.181 ms  27.180 ms  27.178 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  27.168 ms  29.491 ms  29.486 ms
+ 7  be-31143-cs04.newark.nj.ibone.comcast.net (96.110.42.45)  32.772 ms  21.010 ms  21.003 ms
+ 8  be-1401-cr01.newark.nj.ibone.comcast.net (96.110.36.94)  20.986 ms  22.957 ms  22.959 ms
+ 9  be-10203-cr02.newyork.ny.ibone.comcast.net (68.86.85.186)  22.940 ms  22.954 ms  22.954 ms
+10  be-10381-pe02.111eighthave.ny.ibone.comcast.net (68.86.86.250)  22.935 ms  23.380 ms  23.383 ms
+11  50.242.150.154 (50.242.150.154)  25.902 ms  25.907 ms  23.986 ms
+12  ae2.coresite-ewr3.netarch.akamai.com (23.203.156.177)  26.955 ms  26.963 ms  26.962 ms
+13  a104-78-191-105.deploy.static.akamaitechnologies.com (104.78.191.105)  26.953 ms  32.737 ms  19.239 ms
+[Apr 04 23:37:20]
+PING 104.78.191.105 (104.78.191.105) 56(84) bytes of data.
+64 bytes from 104.78.191.105: icmp_seq=1 ttl=53 time=30.8 ms
+64 bytes from 104.78.191.105: icmp_seq=2 ttl=53 time=33.9 ms
+64 bytes from 104.78.191.105: icmp_seq=3 ttl=53 time=27.7 ms
+64 bytes from 104.78.191.105: icmp_seq=4 ttl=53 time=29.8 ms
+64 bytes from 104.78.191.105: icmp_seq=5 ttl=53 time=46.8 ms
+64 bytes from 104.78.191.105: icmp_seq=6 ttl=53 time=26.4 ms
+64 bytes from 104.78.191.105: icmp_seq=7 ttl=53 time=72.1 ms
+64 bytes from 104.78.191.105: icmp_seq=8 ttl=53 time=29.5 ms
+64 bytes from 104.78.191.105: icmp_seq=9 ttl=53 time=19.6 ms
+64 bytes from 104.78.191.105: icmp_seq=10 ttl=53 time=27.4 ms
+[Apr 04 23:37:30]
+traceroute to 104.78.191.105 (104.78.191.105), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  0.351 ms  0.328 ms  0.327 ms
+ 2  testwifi.here (192.168.86.1)  17.482 ms  17.494 ms  17.493 ms
+ 3  96.120.74.249 (96.120.74.249)  30.003 ms  30.014 ms  32.242 ms
+ 4  68.86.223.249 (68.86.223.249)  31.964 ms  31.970 ms  31.971 ms
+ 5  96.108.142.197 (96.108.142.197)  32.236 ms  32.236 ms  32.235 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  32.219 ms  30.708 ms  30.699 ms
+ 7  be-31143-cs04.newark.nj.ibone.comcast.net (96.110.42.45)  38.055 ms  20.982 ms  20.973 ms
+ 8  be-1401-cr01.newark.nj.ibone.comcast.net (96.110.36.94)  20.957 ms  22.460 ms  22.459 ms
+ 9  be-10203-cr02.newyork.ny.ibone.comcast.net (68.86.85.186)  24.019 ms  24.012 ms  24.012 ms
+10  be-10381-pe02.111eighthave.ny.ibone.comcast.net (68.86.86.250)  23.989 ms  23.994 ms  23.992 ms
+11  50.242.150.154 (50.242.150.154)  26.727 ms  26.749 ms  26.750 ms
+12  ae2.coresite-ewr3.netarch.akamai.com (23.203.156.177)  22.314 ms  22.358 ms  22.357 ms
+13  a104-78-191-105.deploy.static.akamaitechnologies.com (104.78.191.105)  22.312 ms  22.354 ms  22.326 ms
+[Apr 04 23:37:35]
+PING 104.78.191.105 (104.78.191.105) 56(84) bytes of data.
+64 bytes from 104.78.191.105: icmp_seq=1 ttl=53 time=31.1 ms
+64 bytes from 104.78.191.105: icmp_seq=2 ttl=53 time=25.1 ms
+64 bytes from 104.78.191.105: icmp_seq=3 ttl=53 time=18.5 ms
+64 bytes from 104.78.191.105: icmp_seq=4 ttl=53 time=29.5 ms
+64 bytes from 104.78.191.105: icmp_seq=5 ttl=53 time=22.2 ms
+64 bytes from 104.78.191.105: icmp_seq=6 ttl=53 time=34.2 ms
+64 bytes from 104.78.191.105: icmp_seq=7 ttl=53 time=26.7 ms
+64 bytes from 104.78.191.105: icmp_seq=8 ttl=53 time=27.2 ms
+64 bytes from 104.78.191.105: icmp_seq=9 ttl=53 time=20.6 ms
+64 bytes from 104.78.191.105: icmp_seq=10 ttl=53 time=27.3 ms
+

@@ -1,0 +1,235 @@
+[Apr 04 00:01:39]
+traceroute to www.youtube.com (172.217.9.238), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  0.295 ms  0.293 ms  0.293 ms
+ 2  testwifi.here (192.168.86.1)  10.363 ms  10.388 ms  10.393 ms
+ 3  96.120.74.249 (96.120.74.249)  21.160 ms  21.170 ms  21.170 ms
+ 4  68.86.223.249 (68.86.223.249)  29.679 ms  29.699 ms  29.699 ms
+ 5  96.108.142.197 (96.108.142.197)  21.165 ms  21.164 ms  21.164 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  21.152 ms  19.479 ms  19.473 ms
+ 7  69.241.68.158 (69.241.68.158)  38.996 ms  19.094 ms  19.079 ms
+ 8  108.170.228.94 (108.170.228.94)  24.652 ms  93.937 ms  93.929 ms
+ 9  216.239.62.21 (216.239.62.21)  55.576 ms  55.589 ms  55.587 ms
+10  lga34s11-in-f14.1e100.net (172.217.9.238)  55.612 ms  55.616 ms  55.615 ms
+[Apr 04 00:01:47]
+PING youtube-ui.l.google.com (172.217.9.238) 56(84) bytes of data.
+64 bytes from lga34s11-in-f14.1e100.net (172.217.9.238): icmp_seq=1 ttl=52 time=55.7 ms
+64 bytes from lga34s11-in-f14.1e100.net (172.217.9.238): icmp_seq=2 ttl=52 time=67.6 ms
+64 bytes from lga34s11-in-f14.1e100.net (172.217.9.238): icmp_seq=3 ttl=52 time=68.4 ms
+64 bytes from lga34s11-in-f14.1e100.net (172.217.9.238): icmp_seq=4 ttl=52 time=58.8 ms
+64 bytes from lga34s11-in-f14.1e100.net (172.217.9.238): icmp_seq=5 ttl=52 time=39.1 ms
+64 bytes from lga34s11-in-f14.1e100.net (172.217.9.238): icmp_seq=6 ttl=52 time=53.5 ms
+64 bytes from lga34s11-in-f14.1e100.net (172.217.9.238): icmp_seq=7 ttl=52 time=38.2 ms
+64 bytes from lga34s11-in-f14.1e100.net (172.217.9.238): icmp_seq=8 ttl=52 time=129 ms
+64 bytes from lga34s11-in-f14.1e100.net (172.217.9.238): icmp_seq=9 ttl=52 time=68.1 ms
+64 bytes from lga34s11-in-f14.1e100.net (172.217.9.238): icmp_seq=10 ttl=52 time=54.4 ms
+[Apr 04 00:01:57]
+traceroute to www.youtube.com (172.217.12.174), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  1.224 ms  1.287 ms  1.282 ms
+ 2  testwifi.here (192.168.86.1)  34.912 ms  34.943 ms  34.941 ms
+ 3  96.120.74.249 (96.120.74.249)  46.091 ms  46.097 ms  46.090 ms
+ 4  68.86.223.249 (68.86.223.249)  53.220 ms  53.211 ms  53.200 ms
+ 5  96.108.142.197 (96.108.142.197)  53.168 ms  53.170 ms  53.161 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  53.131 ms  49.491 ms  49.458 ms
+ 7  69.241.68.158 (69.241.68.158)  86.314 ms  56.685 ms  56.683 ms
+ 8  108.170.228.96 (108.170.228.96)  56.595 ms  20.927 ms  20.926 ms
+ 9  172.253.70.5 (172.253.70.5)  20.907 ms  26.279 ms  26.284 ms
+10  lga25s62-in-f14.1e100.net (172.217.12.174)  26.234 ms  26.244 ms  26.243 ms
+[Apr 04 00:02:07]
+PING youtube-ui.l.google.com (172.217.12.174) 56(84) bytes of data.
+64 bytes from lga25s62-in-f14.1e100.net (172.217.12.174): icmp_seq=1 ttl=52 time=35.7 ms
+64 bytes from lga25s62-in-f14.1e100.net (172.217.12.174): icmp_seq=2 ttl=52 time=22.5 ms
+64 bytes from lga25s62-in-f14.1e100.net (172.217.12.174): icmp_seq=3 ttl=52 time=49.0 ms
+64 bytes from lga25s62-in-f14.1e100.net (172.217.12.174): icmp_seq=4 ttl=52 time=32.4 ms
+64 bytes from lga25s62-in-f14.1e100.net (172.217.12.174): icmp_seq=5 ttl=52 time=54.7 ms
+64 bytes from lga25s62-in-f14.1e100.net (172.217.12.174): icmp_seq=6 ttl=52 time=34.7 ms
+64 bytes from lga25s62-in-f14.1e100.net (172.217.12.174): icmp_seq=7 ttl=52 time=31.3 ms
+64 bytes from lga25s62-in-f14.1e100.net (172.217.12.174): icmp_seq=8 ttl=52 time=24.1 ms
+64 bytes from lga25s62-in-f14.1e100.net (172.217.12.174): icmp_seq=9 ttl=52 time=35.6 ms
+64 bytes from lga25s62-in-f14.1e100.net (172.217.12.174): icmp_seq=10 ttl=52 time=23.1 ms
+
+[Apr 04 00:02:17]
+traceroute to www.reddit.com (151.101.1.140), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  0.369 ms  0.388 ms  0.388 ms
+ 2  testwifi.here (192.168.86.1)  11.613 ms  11.661 ms  11.662 ms
+ 3  96.120.74.249 (96.120.74.249)  20.934 ms  20.943 ms  20.942 ms
+ 4  68.86.223.249 (68.86.223.249)  20.684 ms  20.694 ms  20.693 ms
+ 5  96.108.142.197 (96.108.142.197)  20.917 ms  20.914 ms  20.913 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  20.922 ms  28.839 ms  28.839 ms
+ 7  be-31123-cs02.newark.nj.ibone.comcast.net (96.110.42.37)  41.013 ms  20.806 ms  20.798 ms
+ 8  be-2202-pe02.newark.nj.ibone.comcast.net (96.110.37.54)  20.779 ms  22.789 ms  22.762 ms
+ 9  50.242.150.178 (50.242.150.178)  22.713 ms  22.713 ms  22.711 ms
+10  151.101.1.140 (151.101.1.140)  22.501 ms  22.661 ms  22.662 ms
+[Apr 04 00:02:22]
+PING reddit.map.fastly.net (151.101.1.140) 56(84) bytes of data.
+64 bytes from 151.101.1.140 (151.101.1.140): icmp_seq=1 ttl=55 time=39.9 ms
+64 bytes from 151.101.1.140 (151.101.1.140): icmp_seq=2 ttl=55 time=27.1 ms
+64 bytes from 151.101.1.140 (151.101.1.140): icmp_seq=3 ttl=55 time=39.8 ms
+64 bytes from 151.101.1.140 (151.101.1.140): icmp_seq=4 ttl=55 time=35.3 ms
+64 bytes from 151.101.1.140 (151.101.1.140): icmp_seq=5 ttl=55 time=28.4 ms
+64 bytes from 151.101.1.140 (151.101.1.140): icmp_seq=6 ttl=55 time=29.5 ms
+64 bytes from 151.101.1.140 (151.101.1.140): icmp_seq=7 ttl=55 time=37.9 ms
+64 bytes from 151.101.1.140 (151.101.1.140): icmp_seq=8 ttl=55 time=29.8 ms
+64 bytes from 151.101.1.140 (151.101.1.140): icmp_seq=9 ttl=55 time=25.7 ms
+64 bytes from 151.101.1.140 (151.101.1.140): icmp_seq=10 ttl=55 time=26.6 ms
+[Apr 04 00:02:32]
+traceroute to www.reddit.com (151.101.1.140), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  0.573 ms  0.624 ms  0.626 ms
+ 2  testwifi.here (192.168.86.1)  26.577 ms  26.620 ms  26.619 ms
+ 3  96.120.74.249 (96.120.74.249)  40.474 ms  40.479 ms  40.476 ms
+ 4  68.86.223.249 (68.86.223.249)  34.674 ms  34.680 ms  35.871 ms
+ 5  96.108.142.197 (96.108.142.197)  49.323 ms  49.333 ms  49.331 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  49.302 ms  47.202 ms  47.184 ms
+ 7  be-31123-cs02.newark.nj.ibone.comcast.net (96.110.42.37)  48.090 ms  19.017 ms  19.011 ms
+ 8  be-2202-pe02.newark.nj.ibone.comcast.net (96.110.37.54)  22.521 ms  19.740 ms  19.746 ms
+ 9  50.242.150.178 (50.242.150.178)  19.738 ms  19.736 ms  19.733 ms
+10  151.101.1.140 (151.101.1.140)  21.957 ms  21.969 ms  21.967 ms
+[Apr 04 00:02:38]
+PING reddit.map.fastly.net (151.101.1.140) 56(84) bytes of data.
+64 bytes from 151.101.1.140 (151.101.1.140): icmp_seq=1 ttl=55 time=50.0 ms
+64 bytes from 151.101.1.140 (151.101.1.140): icmp_seq=2 ttl=55 time=18.1 ms
+64 bytes from 151.101.1.140 (151.101.1.140): icmp_seq=3 ttl=55 time=34.4 ms
+64 bytes from 151.101.1.140 (151.101.1.140): icmp_seq=4 ttl=55 time=27.6 ms
+64 bytes from 151.101.1.140 (151.101.1.140): icmp_seq=5 ttl=55 time=44.8 ms
+64 bytes from 151.101.1.140 (151.101.1.140): icmp_seq=6 ttl=55 time=29.0 ms
+64 bytes from 151.101.1.140 (151.101.1.140): icmp_seq=7 ttl=55 time=46.4 ms
+64 bytes from 151.101.1.140 (151.101.1.140): icmp_seq=8 ttl=55 time=32.2 ms
+64 bytes from 151.101.1.140 (151.101.1.140): icmp_seq=9 ttl=55 time=30.0 ms
+64 bytes from 151.101.1.140 (151.101.1.140): icmp_seq=10 ttl=55 time=22.0 ms
+
+[Apr 04 00:02:48]
+traceroute to www.amazon.com (23.205.209.132), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  0.367 ms  0.382 ms  0.381 ms
+ 2  testwifi.here (192.168.86.1)  10.575 ms  10.660 ms  10.661 ms
+ 3  96.120.74.249 (96.120.74.249)  18.219 ms  18.227 ms  18.225 ms
+ 4  68.86.223.249 (68.86.223.249)  20.181 ms  20.191 ms  20.190 ms
+ 5  96.108.142.197 (96.108.142.197)  22.204 ms  22.209 ms  22.209 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  20.189 ms  18.463 ms  20.447 ms
+ 7  a23-205-209-132.deploy.static.akamaitechnologies.com (23.205.209.132)  32.603 ms  19.199 ms  19.191 ms
+[Apr 04 00:02:52]
+PING e15316.e22.akamaiedge.net (23.205.209.132) 56(84) bytes of data.
+64 bytes from a23-205-209-132.deploy.static.akamaitechnologies.com (23.205.209.132): icmp_seq=1 ttl=58 time=66.5 ms
+64 bytes from a23-205-209-132.deploy.static.akamaitechnologies.com (23.205.209.132): icmp_seq=2 ttl=58 time=31.2 ms
+64 bytes from a23-205-209-132.deploy.static.akamaitechnologies.com (23.205.209.132): icmp_seq=3 ttl=58 time=24.4 ms
+64 bytes from a23-205-209-132.deploy.static.akamaitechnologies.com (23.205.209.132): icmp_seq=4 ttl=58 time=30.3 ms
+64 bytes from a23-205-209-132.deploy.static.akamaitechnologies.com (23.205.209.132): icmp_seq=5 ttl=58 time=44.4 ms
+64 bytes from a23-205-209-132.deploy.static.akamaitechnologies.com (23.205.209.132): icmp_seq=6 ttl=58 time=41.4 ms
+64 bytes from a23-205-209-132.deploy.static.akamaitechnologies.com (23.205.209.132): icmp_seq=7 ttl=58 time=53.8 ms
+64 bytes from a23-205-209-132.deploy.static.akamaitechnologies.com (23.205.209.132): icmp_seq=8 ttl=58 time=55.7 ms
+64 bytes from a23-205-209-132.deploy.static.akamaitechnologies.com (23.205.209.132): icmp_seq=9 ttl=58 time=18.6 ms
+64 bytes from a23-205-209-132.deploy.static.akamaitechnologies.com (23.205.209.132): icmp_seq=10 ttl=58 time=33.7 ms
+[Apr 04 00:03:02]
+traceroute to www.amazon.com (23.205.209.132), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  0.463 ms  0.481 ms  0.480 ms
+ 2  testwifi.here (192.168.86.1)  8.943 ms  8.991 ms  8.992 ms
+ 3  96.120.74.249 (96.120.74.249)  23.088 ms  23.109 ms  23.109 ms
+ 4  68.86.223.249 (68.86.223.249)  19.182 ms  19.190 ms  19.189 ms
+ 5  96.108.142.197 (96.108.142.197)  23.098 ms  23.097 ms  23.097 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  23.105 ms  21.367 ms  21.365 ms
+ 7  a23-205-209-132.deploy.static.akamaitechnologies.com (23.205.209.132)  25.575 ms  19.886 ms  19.879 ms
+[Apr 04 00:03:05]
+PING e15316.e22.akamaiedge.net (23.205.209.132) 56(84) bytes of data.
+64 bytes from a23-205-209-132.deploy.static.akamaitechnologies.com (23.205.209.132): icmp_seq=1 ttl=58 time=54.0 ms
+64 bytes from a23-205-209-132.deploy.static.akamaitechnologies.com (23.205.209.132): icmp_seq=2 ttl=58 time=26.7 ms
+64 bytes from a23-205-209-132.deploy.static.akamaitechnologies.com (23.205.209.132): icmp_seq=3 ttl=58 time=32.3 ms
+64 bytes from a23-205-209-132.deploy.static.akamaitechnologies.com (23.205.209.132): icmp_seq=4 ttl=58 time=47.1 ms
+64 bytes from a23-205-209-132.deploy.static.akamaitechnologies.com (23.205.209.132): icmp_seq=5 ttl=58 time=37.4 ms
+64 bytes from a23-205-209-132.deploy.static.akamaitechnologies.com (23.205.209.132): icmp_seq=6 ttl=58 time=46.1 ms
+64 bytes from a23-205-209-132.deploy.static.akamaitechnologies.com (23.205.209.132): icmp_seq=7 ttl=58 time=26.5 ms
+64 bytes from a23-205-209-132.deploy.static.akamaitechnologies.com (23.205.209.132): icmp_seq=8 ttl=58 time=43.7 ms
+64 bytes from a23-205-209-132.deploy.static.akamaitechnologies.com (23.205.209.132): icmp_seq=9 ttl=58 time=31.7 ms
+64 bytes from a23-205-209-132.deploy.static.akamaitechnologies.com (23.205.209.132): icmp_seq=10 ttl=58 time=35.7 ms
+
+[Apr 04 00:03:15]
+traceroute to www.amazon.co.jp (23.205.209.128), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  2.214 ms  2.218 ms  2.213 ms
+ 2  testwifi.here (192.168.86.1)  14.925 ms  14.941 ms  14.940 ms
+ 3  96.120.74.249 (96.120.74.249)  27.803 ms  27.815 ms  27.816 ms
+ 4  68.86.223.249 (68.86.223.249)  26.373 ms  26.383 ms  26.382 ms
+ 5  96.108.142.197 (96.108.142.197)  27.805 ms  27.803 ms  27.802 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  27.773 ms  24.556 ms  24.543 ms
+ 7  a23-205-209-128.deploy.static.akamaitechnologies.com (23.205.209.128)  27.478 ms  20.083 ms  20.077 ms
+[Apr 04 00:03:18]
+PING e15312.e22.akamaiedge.net (23.205.209.128) 56(84) bytes of data.
+64 bytes from a23-205-209-128.deploy.static.akamaitechnologies.com (23.205.209.128): icmp_seq=1 ttl=58 time=48.9 ms
+64 bytes from a23-205-209-128.deploy.static.akamaitechnologies.com (23.205.209.128): icmp_seq=2 ttl=58 time=38.1 ms
+64 bytes from a23-205-209-128.deploy.static.akamaitechnologies.com (23.205.209.128): icmp_seq=3 ttl=58 time=31.9 ms
+64 bytes from a23-205-209-128.deploy.static.akamaitechnologies.com (23.205.209.128): icmp_seq=4 ttl=58 time=30.2 ms
+64 bytes from a23-205-209-128.deploy.static.akamaitechnologies.com (23.205.209.128): icmp_seq=5 ttl=58 time=22.7 ms
+64 bytes from a23-205-209-128.deploy.static.akamaitechnologies.com (23.205.209.128): icmp_seq=6 ttl=58 time=31.1 ms
+64 bytes from a23-205-209-128.deploy.static.akamaitechnologies.com (23.205.209.128): icmp_seq=7 ttl=58 time=24.8 ms
+64 bytes from a23-205-209-128.deploy.static.akamaitechnologies.com (23.205.209.128): icmp_seq=8 ttl=58 time=21.7 ms
+64 bytes from a23-205-209-128.deploy.static.akamaitechnologies.com (23.205.209.128): icmp_seq=9 ttl=58 time=22.4 ms
+64 bytes from a23-205-209-128.deploy.static.akamaitechnologies.com (23.205.209.128): icmp_seq=10 ttl=58 time=41.7 ms
+[Apr 04 00:03:28]
+traceroute to www.amazon.co.jp (23.205.209.128), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  0.873 ms  0.925 ms  0.927 ms
+ 2  testwifi.here (192.168.86.1)  10.991 ms  11.092 ms  11.096 ms
+ 3  96.120.74.249 (96.120.74.249)  19.279 ms  19.293 ms  19.291 ms
+ 4  68.86.223.249 (68.86.223.249)  21.085 ms  21.093 ms  21.090 ms
+ 5  96.108.142.197 (96.108.142.197)  20.711 ms  20.727 ms  20.724 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  20.642 ms  18.030 ms  18.010 ms
+ 7  a23-205-209-128.deploy.static.akamaitechnologies.com (23.205.209.128)  39.478 ms  17.785 ms  17.755 ms
+[Apr 04 00:03:32]
+PING e15312.e22.akamaiedge.net (23.205.209.128) 56(84) bytes of data.
+64 bytes from a23-205-209-128.deploy.static.akamaitechnologies.com (23.205.209.128): icmp_seq=1 ttl=58 time=25.4 ms
+64 bytes from a23-205-209-128.deploy.static.akamaitechnologies.com (23.205.209.128): icmp_seq=2 ttl=58 time=56.0 ms
+64 bytes from a23-205-209-128.deploy.static.akamaitechnologies.com (23.205.209.128): icmp_seq=3 ttl=58 time=20.2 ms
+64 bytes from a23-205-209-128.deploy.static.akamaitechnologies.com (23.205.209.128): icmp_seq=4 ttl=58 time=58.1 ms
+64 bytes from a23-205-209-128.deploy.static.akamaitechnologies.com (23.205.209.128): icmp_seq=5 ttl=58 time=63.7 ms
+64 bytes from a23-205-209-128.deploy.static.akamaitechnologies.com (23.205.209.128): icmp_seq=6 ttl=58 time=100 ms
+64 bytes from a23-205-209-128.deploy.static.akamaitechnologies.com (23.205.209.128): icmp_seq=7 ttl=58 time=57.2 ms
+64 bytes from a23-205-209-128.deploy.static.akamaitechnologies.com (23.205.209.128): icmp_seq=8 ttl=58 time=51.1 ms
+64 bytes from a23-205-209-128.deploy.static.akamaitechnologies.com (23.205.209.128): icmp_seq=9 ttl=58 time=24.1 ms
+64 bytes from a23-205-209-128.deploy.static.akamaitechnologies.com (23.205.209.128): icmp_seq=10 ttl=58 time=32.1 ms
+
+[Apr 04 00:03:42]
+traceroute to cnj.craigslist.org (208.82.237.226), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  0.668 ms  0.720 ms  0.722 ms
+ 2  testwifi.here (192.168.86.1)  16.851 ms  16.960 ms  16.964 ms
+ 3  96.120.74.249 (96.120.74.249)  22.079 ms  22.099 ms  22.097 ms
+ 4  68.86.223.249 (68.86.223.249)  18.953 ms  18.963 ms  18.961 ms
+ 5  96.108.142.197 (96.108.142.197)  22.070 ms  22.068 ms  22.066 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  25.031 ms  22.522 ms  22.502 ms
+ 7  be-31123-cs02.newark.nj.ibone.comcast.net (96.110.42.37)  22.433 ms  18.722 ms  18.717 ms
+ 8  96.110.42.70 (96.110.42.70)  23.017 ms  24.047 ms  24.032 ms
+ 9  68.85.133.70 (68.85.133.70)  33.911 ms  33.935 ms  33.937 ms
+10  50.203.200.110 (50.203.200.110)  34.146 ms  34.161 ms  34.163 ms
+11  cities.craigslist.org (208.82.237.226)  33.910 ms  33.910 ms  33.910 ms
+[Apr 04 00:03:49]
+PING cities.g.craigslist.org (208.82.237.226) 56(84) bytes of data.
+64 bytes from cities.craigslist.org (208.82.237.226): icmp_seq=1 ttl=51 time=50.3 ms
+64 bytes from cities.craigslist.org (208.82.237.226): icmp_seq=2 ttl=51 time=65.9 ms
+64 bytes from cities.craigslist.org (208.82.237.226): icmp_seq=3 ttl=51 time=44.7 ms
+64 bytes from cities.craigslist.org (208.82.237.226): icmp_seq=4 ttl=51 time=68.9 ms
+64 bytes from cities.craigslist.org (208.82.237.226): icmp_seq=5 ttl=51 time=60.4 ms
+64 bytes from cities.craigslist.org (208.82.237.226): icmp_seq=6 ttl=51 time=31.3 ms
+64 bytes from cities.craigslist.org (208.82.237.226): icmp_seq=7 ttl=51 time=31.7 ms
+64 bytes from cities.craigslist.org (208.82.237.226): icmp_seq=8 ttl=51 time=33.7 ms
+64 bytes from cities.craigslist.org (208.82.237.226): icmp_seq=9 ttl=51 time=44.5 ms
+64 bytes from cities.craigslist.org (208.82.237.226): icmp_seq=10 ttl=51 time=51.5 ms
+[Apr 04 00:03:59]
+traceroute to cnj.craigslist.org (208.82.237.226), 30 hops max, 60 byte packets
+ 1  DESKTOP-IOJTAP9.mshome.net (172.21.176.1)  0.861 ms  0.883 ms  0.884 ms
+ 2  testwifi.here (192.168.86.1)  14.471 ms  14.526 ms  14.529 ms
+ 3  96.120.74.249 (96.120.74.249)  26.322 ms  26.333 ms  26.334 ms
+ 4  68.86.223.249 (68.86.223.249)  25.139 ms  25.148 ms  25.146 ms
+ 5  96.108.142.197 (96.108.142.197)  26.321 ms  26.320 ms  26.319 ms
+ 6  be-98-ar03.plainfield.nj.panjde.comcast.net (68.85.35.37)  26.292 ms  26.851 ms  26.851 ms
+ 7  be-31123-cs02.newark.nj.ibone.comcast.net (96.110.42.37)  44.536 ms  19.415 ms  19.396 ms
+ 8  96.110.42.70 (96.110.42.70)  24.172 ms  29.879 ms  29.866 ms
+ 9  68.85.133.70 (68.85.133.70)  36.473 ms  36.482 ms  36.478 ms
+10  50.203.200.110 (50.203.200.110)  36.475 ms  36.470 ms  36.465 ms
+11  cities.craigslist.org (208.82.237.226)  36.450 ms  36.446 ms  32.979 ms
+[Apr 04 00:04:05]
+PING cities.g.craigslist.org (208.82.237.226) 56(84) bytes of data.
+64 bytes from cities.craigslist.org (208.82.237.226): icmp_seq=1 ttl=51 time=57.8 ms
+64 bytes from cities.craigslist.org (208.82.237.226): icmp_seq=2 ttl=51 time=44.1 ms
+64 bytes from cities.craigslist.org (208.82.237.226): icmp_seq=3 ttl=51 time=42.0 ms
+64 bytes from cities.craigslist.org (208.82.237.226): icmp_seq=4 ttl=51 time=43.5 ms
+64 bytes from cities.craigslist.org (208.82.237.226): icmp_seq=5 ttl=51 time=47.7 ms
+64 bytes from cities.craigslist.org (208.82.237.226): icmp_seq=6 ttl=51 time=44.4 ms
+64 bytes from cities.craigslist.org (208.82.237.226): icmp_seq=7 ttl=51 time=37.8 ms
+64 bytes from cities.craigslist.org (208.82.237.226): icmp_seq=8 ttl=51 time=39.5 ms
+64 bytes from cities.craigslist.org (208.82.237.226): icmp_seq=9 ttl=51 time=31.6 ms
+64 bytes from cities.craigslist.org (208.82.237.226): icmp_seq=10 ttl=51 time=35.3 ms
+
