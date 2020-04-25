@@ -9,11 +9,11 @@ list_of_websites = [('www.youtube.com', 'www.youtube.com/results', {'search_quer
 
 f = open("seq2_jliu08.txt", "a")
 for website in list_of_websites:
-    stream = os.popen(  'echo [$(date +"%b %m %H:%M:%S")]\n' + \
+    stream = os.popen(  'echo [$(date +"%b %d %H:%M:%S")]\n' + \
                         'sudo traceroute -I ' + website[0] + "\n" + \
-                        'echo [$(date +"%b %m %H:%M:%S")]\n' + \
+                        'echo [$(date +"%b %d %H:%M:%S")]\n' + \
                         'timeout 10 ping ' + website[0] + "\n" + \
-                        'echo [$(date +"%b %m %H:%M:%S")]\n')
+                        'echo [$(date +"%b %d %H:%M:%S")]\n')
     output = stream.read()
     f.write(output + "\n")
 
@@ -26,9 +26,9 @@ for website in list_of_websites:
             print(str(r.status_code) + website[0])
         f.write(str(r.elapsed.total_seconds() * 1000.0) + "\n")
 
-    stream = os.popen(  '\necho [$(date +"%b %m %H:%M:%S")]\n' + \
+    stream = os.popen(  '\necho [$(date +"%b %d %H:%M:%S")]\n' + \
                         'sudo traceroute -I ' + website[0] + "\n" + \
-                        'echo [$(date +"%b %m %H:%M:%S")]\n' + \
+                        'echo [$(date +"%b %d %H:%M:%S")]\n' + \
                         'timeout 10 ping ' + website[0] + "\n")
     output = stream.read()
     f.write(output + "\n")
