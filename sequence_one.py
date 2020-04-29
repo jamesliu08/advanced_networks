@@ -1,19 +1,25 @@
 import os
 
-list_of_websites = ['23.43.254.42', '151.101.1.224', '31.13.71.49', '31.13.71.36', '151.101.65.67', '151.101.65.164', '23.8.173.150', '104.18.24.142', '104.105.80.103', '104.78.191.105']
+list_of_names = ['www.jdsports.com', 'www.etsy.com', 'www.pinterest.com', 'www.yelp.com', 'www.nytimes.com', 'www.cnn.com', 'www.kidshealth.org', 'www.webmd.com', 'www.state.gov', 'www.whitehouse.gov']
+list_of_websites = ['184.87.67.199', '104.105.41.236', '104.77.220.247', '104.16.57.23', '151.101.1.164', '151.101.1.67', '192.168.249.117', '104.16.159.5', '184.87.67.64', '104.78.191.105']
 
-f = open("seq1_jliu08.txt", "a")
+for i in range(list_of_websites):
+    website = list_of_websites[i]
+    print(list_of_names[i])
 
-for website in list_of_websites:
-    stream = os.popen(  'echo [$(date +"%b %d %H:%M:%S")]\n' + \
-                        'sudo traceroute -I ' + website + "\n" + \
-                        'echo [$(date +"%b %d %H:%M:%S")]\n' + \
-                        'timeout 10 ping ' + website + "\n" + \
-                        'echo [$(date +"%b %d %H:%M:%S")]\n' + \
-                        'sudo traceroute -I ' + website + "\n" + \
-                        'echo [$(date +"%b %d %H:%M:%S")]\n' + \
-                        'timeout 10 ping ' + website)
+    os.system('echo [$(date +"%b %d %H:%M:%S")]')
+
+    os.system('sudo traceroute -I ' + website)
+
+    os.system('echo [$(date +"%b %d %H:%M:%S")]')
+
+    os.system('ping -w 10 ' + website)
+
+    os.system('echo [$(date +"%b %d %H:%M:%S")]')
+
+    os.system('sudo traceroute -I ' + website)
+
+    os.system('echo [$(date +"%b %d %H:%M:%S")]')
+
+    os.system('ping -w 10 ' + website)
     
-    output = stream.read()
-    
-    f.write(output + "\n")
