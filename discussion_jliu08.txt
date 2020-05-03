@@ -1,0 +1,75 @@
+James Liu
+
+All tests were run from my home in New Jersey.
+
+Question 1:  are end-to-end routes consistent within each day, and within the 4+ days?  Explain;
+
+To check for end-to-end route consistency, I analyzed traceroute runs to see if the hops taken were
+the same each day.
+
+In sequence 1, where static IP's were used, end-to-end routes were both consistent within each day
+and within the 4+ days. Across all ten services tested, no paths or links changed across all four
+days. In sequence 2 and 3, where dynamic IP's were used, end-to-end routes did change obviously, as
+the destination address is changing but when traveling to the same IP, the route was consistent every
+day. This suggests that, at least at a certain time, the routes are fairly stable despite the increased
+load on the internet.
+
+Question 2:  (Sequence 2): is networking delay the major component of  API call latency? Explain; 
+
+Based on the results from sequence 2, networking delay is not the major
+component of API call latency. Looking at the results from youtube.com
+for example, on April 30, a run of 'ping' to youtube.com resulted in an
+average delay of 58 ms. In comparison, the fastest API response time
+measured that day was 252.97 ms, almost 5 times as long. Subtracting the
+two gives us a server processing time of 194.97, significantly higher than
+the network delay.
+
+This same trend was observed for all the services tested with sequence two.
+Of the services tested, walmart and amazon.de performed the worse in terms
+of server processing time (often having processing times 6-8 times as high
+as the network delay, while youtube.com was generally the best. BBC had the
+highest network delay of the bunch, often averaging over 100ms. This is not
+necessarily surprising however, as they are a British company and probably
+do not have as strong server infrastructure in the US as the US based companies
+or compared to a bigger company like amazon.de.
+
+Still, for every site, API response was almost always more than double the
+network delay, suggesting that server response time is the major component of
+API call latency.
+
+Question 3: (Sequence 3): Do traceroute and Pchar produce consistent results? Can you identify a consistent bottleneck link for each site?  Explain; 
+
+Generally, a pchar and traceroute run on the same day produce the same results. Since
+they are run almost consecutively, this makes sense as it would be unlikely for the path
+to change at that given instant.
+
+Across multiple days however, there is some variation in the path, especially as
+we get closer to the destination. For example, on April 29, youtube.com took its
+8th hop to IP address 216.239.62.21 while on April 30, this hop was to 209.85.244.65.
+These changes in path are probably due mostly to differences in DNS resolution. We see 
+the destination IP on these two days is also different from the data. In comparison,
+when we look at amazon.com, where we used a static IP to avoid issues of unresponsive
+hops, we see that the traceroute and pchar paths each day are identical. This suggests
+that path stability is actually quite good and that the network is holding up, despite 
+the increased number of people at home. 
+
+Overall, traceroute and pchar produce consistent results, both with each other, and across 
+different days, as long as the DNS resolution is the same. 
+
+In terms of detecting a bottleneck for each service, I tried to look at the pchar results
+and try determine which link corresponds to the path bottleneck. Unfortunately, it looks like
+for several links, pchar would sometimes return 0 for the bandwidth, or no result at all.
+
+Still, even if we ignore that, it was basically impossible to identify a consistent bottleneck.
+Across all 5 services, even with using a static IP for some (amazon.com, amazon.co.jp), the
+bottlenecked link according to pchar was different for each run with no real pattern. Usually,
+the bottleneck occurred at one of the last few hops, but even this was inconsistent. Occasionally,
+the bottleneck link was from the ISP but this was rare. 
+
+Overall, my results from sequence 3 suggest that while the paths used to reach each service are
+fairly consistent in my area at least, the bandwidth of each link along this path is not. Depending
+on the day, there appears to be a lot of fluctuation in which links and services are experiencing
+high traffic, resulting in significant changes in bandwidth.
+
+www.youtube.com
+Bottleneck link: 

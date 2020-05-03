@@ -6,4 +6,17 @@ python3 sequence_one.py | tee -a seq1_jliu08.txt
 
 Or similar command for other sequences.
 
+For sequence_two, I used python requests' built in 'elapsed' property to get the time instead of manually recording the
+start and end times and calculating the difference. I hope this is acceptable as it seems to me as it would be more accurate.
+
 I purposely chose to leave output up to the user in case they wished to write to a different file or simply send to stdout
+
+BONUS:
+
+Parsing bonus scripts simply involves running:
+
+python3 parse_seq_one.py
+
+Or similar command for other sequences. I outputted rows of the csv in the order they appeared in the output of my code.
+I believe this is a sensible decision as a csv can be easily sorted in another program such as Excel, or with a script, so
+the option of how that is sorted should be up to the user.

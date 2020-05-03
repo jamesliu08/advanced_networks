@@ -19,11 +19,11 @@ def parse_pchar(f, current_site, current_date, current_time):
                 break
             s = line.split()
             package_loss = s[-1].strip('()')
-            f.readline()
+            s = f.readline().split()
+            delay = s[4]
             f.readline()
             f.readline()
             s = f.readline().split()
-            delay = s[4]
             bw = s[-2]
             s = f.readline().split()
             queueing = s[4]
@@ -117,7 +117,7 @@ with open('seq3_jliu08.txt') as f:
                 line = 'cnj.craigslist.com'
             line = parse_service(f, line)
     for key in dictionary:
-        print(key)
+
         with open("bonus/" + key + '_seq3.csv', 'w') as csvfile:
             writer = csv.writer(csvfile)
             for l in dictionary[key]:

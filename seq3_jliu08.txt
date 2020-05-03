@@ -1333,7 +1333,7 @@ Packet size increments from 32 to 1500 by 128
     Path queueing:     average = 0.039085 ms (5192 bytes)
     Start time:        Fri May  1 14:56:33 2020
     End time:          Fri May  1 14:59:07 2020
-[May 05 14:59:07]
+[May 01 14:59:07]
 traceroute to www.youtube.com (172.217.10.238), 30 hops max, 60 byte packets
  1  testwifi.here (192.168.86.1)  4.264 ms  4.062 ms  4.026 ms
  2  96.120.74.249 (96.120.74.249)  13.639 ms  13.619 ms  13.595 ms
@@ -1344,7 +1344,7 @@ traceroute to www.youtube.com (172.217.10.238), 30 hops max, 60 byte packets
  7  108.170.228.92 (108.170.228.92)  20.820 ms  17.143 ms  17.041 ms
  8  172.253.69.221 (172.253.69.221)  15.056 ms  15.093 ms  14.977 ms
  9  lga25s59-in-f14.1e100.net (172.217.10.238)  14.948 ms  14.925 ms  14.905 ms
-[May 05 14:59:08]
+[May 01 14:59:08]
 PING youtube-ui.l.google.com (172.217.9.238) 56(84) bytes of data.
 64 bytes from lga34s11-in-f14.1e100.net (172.217.9.238): icmp_seq=1 ttl=53 time=17.0 ms
 64 bytes from lga34s11-in-f14.1e100.net (172.217.9.238): icmp_seq=2 ttl=53 time=15.6 ms
@@ -1361,7 +1361,7 @@ PING youtube-ui.l.google.com (172.217.9.238) 56(84) bytes of data.
 10 packets transmitted, 10 received, 0% packet loss, time 22ms
 rtt min/avg/max/mdev = 15.626/31.384/54.371/13.430 ms
 www.reddit.com
-[May 05 14:59:18]
+[May 01 14:59:18]
 traceroute to www.reddit.com (151.101.1.140), 30 hops max, 60 byte packets
  1  testwifi.here (192.168.86.1)  4.605 ms  4.503 ms  4.478 ms
  2  96.120.74.249 (96.120.74.249)  14.676 ms  14.657 ms  14.606 ms
@@ -1372,7 +1372,7 @@ traceroute to www.reddit.com (151.101.1.140), 30 hops max, 60 byte packets
  7  be-2202-pe02.newark.nj.ibone.comcast.net (96.110.37.54)  21.620 ms  15.368 ms  15.265 ms
  8  50.242.150.178 (50.242.150.178)  14.700 ms  18.280 ms  18.174 ms
  9  151.101.1.140 (151.101.1.140)  18.000 ms  17.977 ms  17.958 ms
-[May 05 14:59:19]
+[May 01 14:59:19]
 PING reddit.map.fastly.net (151.101.1.140) 56(84) bytes of data.
 64 bytes from 151.101.1.140 (151.101.1.140): icmp_seq=1 ttl=56 time=33.10 ms
 64 bytes from 151.101.1.140 (151.101.1.140): icmp_seq=2 ttl=56 time=19.4 ms
