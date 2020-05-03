@@ -9,7 +9,7 @@ list_of_websites = [('www.youtube.com', 'www.youtube.com/results', {'search_quer
 
 for website in list_of_websites:
 
-    print(website[0])
+    os.system('echo ' + website[0])
 
     os.system('echo [$(date +"%b %d %H:%M:%S")]')
     os.system('sudo traceroute -I ' + website[0])
@@ -17,7 +17,7 @@ for website in list_of_websites:
     os.system('ping -w 10 ' + website[0])
     os.system('echo [$(date +"%b %d %H:%M:%S")]')
 
-    print('API Response Time')
+    os.system('echo API Response Time')
 
     for i in range(3):
         payload = website[2]
@@ -25,8 +25,8 @@ for website in list_of_websites:
         if r.status_code == requests.codes.ok:
             pass
         else:
-            print(r.url)
-        print(str(r.elapsed.total_seconds() * 1000.0))
+            os.system('echo ' + r.url)
+        os.system('echo ' + str(r.elapsed.total_seconds() * 1000.0))
 
     os.system('echo [$(date +"%b %d %H:%M:%S")]')
     os.system('sudo traceroute -I ' + website[0])
