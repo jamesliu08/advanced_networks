@@ -271,19 +271,20 @@ traceroute to 151.101.1.164 (151.101.1.164), 30 hops max, 60 byte packets
  9  151.101.1.164 (151.101.1.164)  14.711 ms  14.662 ms  14.613 ms
 [Apr 29 14:58:28]
 PING 151.101.1.164 (151.101.1.164) 56(84) bytes of data.
-64 bytes from 151.101.1.164: icmp_seq=1 ttl=56 time=57.8 ms
-64 bytes from 151.101.1.164: icmp_seq=2 ttl=56 time=85.9 ms
-64 bytes from 151.101.1.164: icmp_seq=3 ttl=56 time=52.3 ms
-64 bytes from 151.101.1.164: icmp_seq=5 ttl=56 time=27.1 ms
-64 bytes from 151.101.1.164: icmp_seq=6 ttl=56 time=117 ms
-64 bytes from 151.101.1.164: icmp_seq=7 ttl=56 time=153 ms
-64 bytes from 151.101.1.164: icmp_seq=8 ttl=56 time=27.3 ms
-64 bytes from 151.101.1.164: icmp_seq=9 ttl=56 time=76.10 ms
-64 bytes from 151.101.1.164: icmp_seq=10 ttl=56 time=40.5 ms
+64 bytes from 151.101.1.164: icmp_seq=1 ttl=56 time=36.2 ms
+64 bytes from 151.101.1.164: icmp_seq=2 ttl=56 time=24.6 ms
+64 bytes from 151.101.1.164: icmp_seq=3 ttl=56 time=46.9 ms
+64 bytes from 151.101.1.164: icmp_seq=4 ttl=56 time=25.6 ms
+64 bytes from 151.101.1.164: icmp_seq=5 ttl=56 time=44.4 ms
+64 bytes from 151.101.1.164: icmp_seq=6 ttl=56 time=33.9 ms
+64 bytes from 151.101.1.164: icmp_seq=7 ttl=56 time=53.4 ms
+64 bytes from 151.101.1.164: icmp_seq=8 ttl=56 time=28.7 ms
+64 bytes from 151.101.1.164: icmp_seq=9 ttl=56 time=21.0 ms
+64 bytes from 151.101.1.164: icmp_seq=10 ttl=56 time=23.3 ms
 
 --- 151.101.1.164 ping statistics ---
-10 packets transmitted, 9 received, 10% packet loss, time 14ms
-rtt min/avg/max/mdev = 27.140/70.949/153.290/40.107 ms
+10 packets transmitted, 10 received, 0% packet loss, time 23ms
+rtt min/avg/max/mdev = 21.032/33.802/53.411/10.612 ms
 www.cnn.com
 [Apr 29 14:58:38]
 traceroute to 151.101.1.67 (151.101.1.67), 30 hops max, 60 byte packets

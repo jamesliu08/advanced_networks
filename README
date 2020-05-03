@@ -1,0 +1,9 @@
+NOTE: Scripts require root access as my traceroute runs use -I to send ICMP packets (got better results) and pchar requires root access.
+
+To run scripts and append output to files, use the following command:
+
+python3 sequence_one.py | tee -a seq1_jliu08.txt
+
+Or similar command for other sequences.
+
+I purposely chose to leave output up to the user in case they wished to write to a different file or simply send to stdout
